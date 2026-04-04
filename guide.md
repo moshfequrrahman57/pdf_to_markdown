@@ -1,5 +1,3 @@
-# pdf_to_markdown
-
 Here is a detailed tailored specifically to your PDF-to-Markdown converter code.  
 README.md  
 ## **PDF** **to** **Markdown** **Converter**
